@@ -1,3 +1,5 @@
-# LLM-TA
-Code for LLM-TA paper.
-We will release the code soon.
+# themantic_analysis
+
+```bash
+git clone https://github.com/jiaweixu98/themantic_analysis.git
+```
