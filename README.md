@@ -27,4 +27,14 @@ The `baselines/` directory includes two baselines from:
 
 If you find this paper useful, please cite our paper:  
 
-> **[ArXiv XXXX]**
+```bibtex
+@misc{raza2025llmtallmenhancedthematicanalysis,
+      title={LLM-TA: An LLM-Enhanced Thematic Analysis Pipeline for Transcripts from Parents of Children with Congenital Heart Disease}, 
+      author={Muhammad Zain Raza and Jiawei Xu and Terence Lim and Lily Boddy and Carlos M. Mery and Andrew Well and Ying Ding},
+      year={2025},
+      eprint={2502.01620},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2502.01620},
+      note={Accepted at GenAI for Health Workshop, AAAI 2025, Philadelphia}
+}
